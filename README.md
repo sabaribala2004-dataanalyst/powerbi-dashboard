@@ -32,3 +32,18 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Created DAX measures and calculated columns to answer key business questions.
 - Designed interactive dashboards with slicers, charts, and cards to make insights dynamic and user-friendly.
 
+## Project Insight
+- Microsoft 365 Business Standard is the top-selling product, generating ₹12.4M in revenue.
+- The SMB segment is the leading revenue contributor, accounting for ₹120.14M in total won revenue.
+- 980 leads were successfully won, generating a total won revenue of ₹171.97M.
+- The top-performing employee, PCPL0082, achieved ₹36M in won revenue from 12,711 units sold.
+- The highest monthly revenue was recorded in December, reaching ₹49.78M.
+- The main reason for lost revenue is pricing issues, resulting in a loss of approximately ₹34M.
+
+## Final Conclusion
+To further improve business performance at Power Centre Pvt Ltd, focus should be placed on strengthening customer relationships in the SMB segment and leveraging the success of high-performing products like Microsoft 365. Sales training and incentives can be targeted at mid-performing employees to reduce lost opportunities. Since a significant portion of lost revenue is due to pricing, competitive pricing strategies and better value communication can help mitigate future losses. Additionally, doubling down on successful lead sources such as existing customers and SHI referrals will boost conversion rates. Strategic emphasis should also be placed on December's performance patterns to replicate success throughout the year.
+
+
+
+
+
