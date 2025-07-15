@@ -25,3 +25,10 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Page 2: <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Page%202.JPG">View Dashboard</a>
 - Page 3: <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Page%203.JPG">View Dashboard</a>
 
+## Process
+- Verified the data for missing values and anomalies, and cleaned them using Power Query.
+- Ensured data consistency by standardizing data types, formats, and values.
+- Built a robust data model with relationships to connect multiple tables effectively.
+- Created DAX measures and calculated columns to answer key business questions.
+- Designed interactive dashboards with slicers, charts, and cards to make insights dynamic and user-friendly.
+
