@@ -32,6 +32,13 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Created DAX measures and calculated columns to answer key business questions.
 - Designed interactive dashboards with slicers, charts, and cards to make insights dynamic and user-friendly.
 
+  ## Dashboard
+
+  ![Page 1](https://github.com/user-attachments/assets/4a7b204e-a521-4942-96ca-8b5a68fcf058)
+  ![Page 2](https://github.com/user-attachments/assets/f29a216d-9c48-44ac-b420-3ad6556599f8)
+  ![Page 3](https://github.com/user-attachments/assets/215ead71-b9b5-458f-98a0-77d1e25d6712)
+
+
 ## Project Insight
 - Microsoft 365 Business Standard is the top-selling product, generating ₹12.4M in revenue.
 - The SMB segment is the leading revenue contributor, accounting for ₹120.14M in total won revenue.
