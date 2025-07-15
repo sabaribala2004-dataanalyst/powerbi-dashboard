@@ -19,6 +19,7 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Which salespersons contributed the highest lost revenue and lost leads?
 - What is the monthly trend of lost revenue, and what are the top reasons for lost orders?
 - How is lost revenue categorized by type, principal, and lead source?
+- Dashboard File <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Sales%20Dashboard.pbix">View Main File</a>
 
 ## Process
 - Verified the data for missing values and anomalies, and cleaned them using Power Query.
