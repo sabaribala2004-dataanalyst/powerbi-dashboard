@@ -19,11 +19,7 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Which salespersons contributed the highest lost revenue and lost leads?
 - What is the monthly trend of lost revenue, and what are the top reasons for lost orders?
 - How is lost revenue categorized by type, principal, and lead source?
-
-## Dashboard Interaction
-- Page 1: <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Page%201.JPG">View Dashboard</a>
-- Page 2: <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Page%202.JPG">View Dashboard</a>
-- Page 3: <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Page%203.JPG">View Dashboard</a>
+- Dashboard Interaction-
 
 ## Process
 - Verified the data for missing values and anomalies, and cleaned them using Power Query.
@@ -32,7 +28,7 @@ The goal of this project is to create an annual sales analysis using Power BI. I
 - Created DAX measures and calculated columns to answer key business questions.
 - Designed interactive dashboards with slicers, charts, and cards to make insights dynamic and user-friendly.
 
-  ## Dashboard
+## Dashboard
 
   ![Page 1](https://github.com/user-attachments/assets/4a7b204e-a521-4942-96ca-8b5a68fcf058)
   
